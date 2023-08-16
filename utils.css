@@ -1,0 +1,16 @@
+.center {
+  text-align: center;
+  text-shadow: 2px 3px 4px red;
+  font-family: sans-serif;
+}
+
+/* .m-w-30 {
+  max-width: 30vw;
+  margin: auto;
+} */
+.flex{
+    display: flex;
+    
+    align-items: center;
+    flex-direction: column;
+}
